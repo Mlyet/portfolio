@@ -5,10 +5,7 @@ import '../App.css';
 function Footer(){
     return(
         <footer class="bg-gray-800">
-            {/* <NavLink className="navbar-item" activeClassName="is-active"
-    to="https://www.linkedin.com/in/thomas-meyet-92695b226/"
-    exact > <img src={linkedin} alt='icone de linkedin' /> </NavLink> */}
-            <a href="https://lordicon.com/">Icons by Lordicon.com</a>
+            <a href='https://lordicon.com/' target="_blank" rel="noreferrer">Icons by Lordicon.com</a>
         </footer>
     )
 }

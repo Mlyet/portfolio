@@ -73,7 +73,7 @@ function Course() {
                     <div>
                         <ul>
                             <li>
-                                Formation Apple Fondation Program ( initiation au langage SUIFT ) avec Simplon. Réaliser avec Xcode.
+                                Formation Apple Fondation Program ( initiation au langage SWIFT ) avec Simplon. Réaliser avec Xcode.
                             </li>
                             <li>
                                 CAP et Mention Complémentaire Pâtissier et un CAP Chocolaterie avec diplômes obtenus. CECOF Ambérieu-en-Bugey

@@ -45,13 +45,21 @@ section {
     margin: 0 300px 20px 300px;
     text-align: center;
 }
-.two img {
+.meImg .img{
     height: 320px;
     width: 230px;
     box-shadow: 0 20px 25px -10px rgba(0,0,0,.6);
     margin-bottom: 50px;
-    /* margin-right: 350px; */
+    margin-left: 250px;
 } 
+.textMe {
+    font-size: 20px;
+    margin-left: 150px;
+}
+two .logoReseaux {
+    height: 10px;
+    width: 10px;
+}
 /********************************** Mon parcours ********************/
 .plane {
     width: 60vh;
@@ -108,16 +116,35 @@ section {
     background-color: white;
     position: relative;
 }
+.editor {
+    height: 200px;
+    width: 700px;
+}
 /********************************** Hobbies ********************/
 .game {
     height: 20vh;
+}
+.textProject h1 {
+    font-size: 30px;
+}
+.gameImg {
+    height: 40vh;
+    position: relative;
 }
 .divGame {
     background-color: white;
     margin-left: 650px;
     position: relative;
 }
-.genshin {
-    position: relative;
+.video_game {
+    background-image: url("./assets/theme_neon.avif");
+    background-size: cover;
+    color: white;
+    height: 100vh;
+    padding: 50px;
+    text-align: center;
 }
 /********************************** Footer ********************/
+footer {
+    color:white;
+}

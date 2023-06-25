@@ -25,7 +25,7 @@ function Navbar(){
                                 A propos
                             </Link>
                             <Link activeClass="active" className="text-xl text-slate-400 hover:text-slate-200 duration-300 cursor-pointer">
-                                Mon parcour
+                                Mon parcours
                             </Link>
                             <Link activeClass="active" className="text-xl text-slate-400 hover:text-slate-200 duration-300 cursor-pointer">
                                 Mes projets
@@ -41,7 +41,7 @@ function Navbar(){
                         A propos
                     </Link>
                     <Link activeClass="active" smooth spy to="about" class="text-gray-300 hover:bg-gray-700 hover:text-white block rounded-md px-3 py-2 text-base font-medium">
-                        Mon parcour
+                        Mon parcours
                     </Link>
                     <Link activeClass="active" smooth spy to="about" class="text-gray-300 hover:bg-gray-700 hover:text-white block rounded-md px-3 py-2 text-base font-medium">
                         Mes projets
