@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap');
 .bg-text-container {
   left: 50%;
   position: absolute;
   z-index: -999;
+  font-family: 'Montserrat'
 }
 
-img {
+#start-logo {
   width: 20%;
 }
 @keyframes text-scrolling {
