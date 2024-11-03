@@ -36,7 +36,7 @@ function HomePage() {
             </div>
             <div className="container">
                 <div className="col">
-                    <img src={Logo} alt="My logo" className="start-logo" />
+                    <img src={Logo} alt="My logo" id="start-logo" />
                     <h1>Thomas MEYET</h1>
                 </div>
             </div>

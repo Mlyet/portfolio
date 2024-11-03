@@ -1,5 +1,5 @@
 import { Fragment } from 'react';
-import HomePage from './components/home/home.js';
+import HomePage from './components/home/Home';
 
 function App() {
   return (
@@ -10,4 +10,3 @@ function App() {
 }
 
 export default App;
-
